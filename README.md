@@ -39,11 +39,15 @@ Table of Contents
     License
 
 Introduction
+
+
 What is penetration testing?
 
 Penetration testing is a type of security testing that is used to test the security of an application. It is conducted to find a security risk which might be present in a system.
 
 If a system is not secure, then an attacker may be able to disrupt or take unauthorized control of that system. A security risk is normally an accidental error that occurs while developing and implementing software. For example, configuration errors, design errors, and software bugs, etc. Learn more
+
+
 Want to become a penetration tester?
 
 Knowing about risks on the internet and how they can be prevented is very useful, especially as a developer. Web hacking and penetration testing is the v2.0 of self-defense! But is knowing about tools and how to use them really all you need to become a pen tester? Surely not. A real penetration tester must be able to proceed rigorously and detect the weaknesses of an application. They must be able to identify the technology behind and test every single door that might be open to hackers.
@@ -199,7 +203,6 @@ Beef 	Javascript 	Linux/Windows/macOS 	The Browser Exploitation Framework. It is
 Mobile Security Framework (MobSF) 	Python 	Linux/Windows/macOS 	Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
 Burp Suite 	Java 	Linux/Windows/macOS 	Burp Suite is a leading range of cybersecurity tools, brought to you by PortSwigger. This tool is not free and open source
 
-(Table of Contents)
 Additional resources
 
     Devbreak on Twitter
