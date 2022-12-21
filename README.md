@@ -39,11 +39,14 @@ Table of Contents
     License
 
 Introduction
+
 What is penetration testing?
 
 Penetration testing is a type of security testing that is used to test the security of an application. It is conducted to find a security risk which might be present in a system.
 
 If a system is not secure, then an attacker may be able to disrupt or take unauthorized control of that system. A security risk is normally an accidental error that occurs while developing and implementing software. For example, configuration errors, design errors, and software bugs, etc. Learn more
+
+
 Want to become a penetration tester?
 
 Knowing about risks on the internet and how they can be prevented is very useful, especially as a developer. Web hacking and penetration testing is the v2.0 of self-defense! But is knowing about tools and how to use them really all you need to become a pen tester? Surely not. A real penetration tester must be able to proceed rigorously and detect the weaknesses of an application. They must be able to identify the technology behind and test every single door that might be open to hackers.
@@ -102,8 +105,11 @@ General purpose
     PHP
     Go
 
-Content Management Systems
 
+
+
+Content Management Systems
+    
     Wordpress
     Joomla
     Drupal
@@ -116,6 +122,7 @@ Basic steps of pen testing
 Source: tutorialspoint
 
 Read more about pen testing methodology
+
 
 Tools by category
 
